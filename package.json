@@ -1,0 +1,21 @@
+{
+	"name": "paperback-suwayomi",
+	"repositoryName": "Suwayomi for Paperback",
+	"version": "1.0.1",
+	"description": "Paperback extension that reads the downloaded chapters of a Suwayomi server",
+	"private": true,
+	"scripts": {
+		"build": "tsc --noEmit",
+		"bundle": "paperback bundle",
+		"serve": "paperback serve"
+	},
+	"author": "piexel",
+	"license": "BSD-2-Clause",
+	"devDependencies": {
+		"typescript": "^5.9.3"
+	},
+	"dependencies": {
+		"@paperback/toolchain": "0.8.7",
+		"@paperback/types": "0.8.7"
+	}
+}
