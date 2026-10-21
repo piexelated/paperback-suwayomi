@@ -81,7 +81,7 @@ export const SuwayomiInfo: SourceInfo = {
 	name: 'Suwayomi',
 	icon: 'icon.png',
 	author: 'piexel',
-	authorWebsite: 'https://github.com/GITHUB_USER',
+	authorWebsite: 'https://github.com/piexelated',
 	description: 'Unofficial client for Suwayomi servers. Shows only the chapters downloaded on the server.',
 	contentRating: ContentRating.EVERYONE,
 	websiteBaseURL: 'https://github.com/Suwayomi/Suwayomi-Server',
